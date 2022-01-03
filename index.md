@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+# Oiê!
 
-You can use the [editor on GitHub](https://github.com/JoaoHL/joaohl.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Meu nome é João Henrique Luciano. Sou desenvolvedor de software na Alura e tenho focado meus estudos mais na parte de banco de dados e um tanto de infra.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![Olá, mundo](https://user-images.githubusercontent.com/5323327/147986261-91fcf2b2-51cc-4b52-aa7d-555941851530.png)
 
-### Markdown
+A real é que eu não sei bem o que escrever aqui. A ideia é compartilhar meus conhecimentos adquiridos no trabalho e nos estudos, principalmente sobre banco de dados e com foco em MySQL, que é o que uso no trabalho, mas não esperem que esse aqui seja algo puramente técnico. Eu gosto muito de memes, jogos online, animes e conversas sobre a vida (não digo que amo filosofia pros palestrinhas não virem perguntar "_mAs vOcê Já LeU sChOPeNhAUeR?_"), e vou acabar falando sobre esses assuntos em algum momento.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## O que esperar desse site?
 
-```markdown
-Syntax highlighted code block
+Em termos técnicos, é provável que eu vá falar aqui sobre:
 
-# Header 1
-## Header 2
-### Header 3
+- linguagens de programação (as minhas favoritas são Python e C, mas trabalho com Java)
+- bancos de dados
+- Spring Boot
+- maratona de programação
+- boas práticas de programação
+- serviços cloud (em especial AWS)
 
-- Bulleted
-- List
+Já em termos não técnicos:
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JoaoHL/joaohl.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- animes (meu favorito é JoJo's Bizarre Adventure)
+- lições de vida
+- jogos
+- culinária
+- memes
